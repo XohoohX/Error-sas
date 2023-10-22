@@ -1,0 +1,47 @@
+body{
+    background-color: #6b75bb;
+    
+}
+header a{
+color: black;
+    background-color: rgb(101, 83, 167);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid rgb(7, 5, 95);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+
+}
+
+header{
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 20px;
+   
+}
+h2 { 
+    color: rgb(209, 245, 255);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid #c6c7fc7e;
+    border-radius: 20px;
+    padding: 29px;
+    margin: 0px;
+}
+ main {
+  text-decoration: none;
+}
+img{
+    border:5px solid rgb(61, 72, 167);
+    font-size: 150px;
+}
+main p {
+  color: #181f47;
+    
+}
